@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+  <body>
+    <element name="x-timer" constructor="TimerComponent" extends="div">
+      <template>
+        <div>
+          Work Minutes<br>
+          <input type="text" bind-value="workMinutesString" placeholder="Work Minutes"><br><br>
+          Rest Minutes<br>
+          <input type="text" bind-value="restMinutesString" placeholder="Rest Minutes"><br>
+          <button on-click="startWorkTimer()">Start</button><br />
+          <div style="visibility:{{workRemainMinutesVisibility}};">Work Time Remains: {{workRemainMinutes}} Minutes</div>
+          <div style="visibility:{{restRemainMinutesVisibility}};">Rest Time Remains: {{restRemainMinutes}} Minutes</div>
+        </div>
+      </template>
+      <script type="application/dart" src="timer.dart"></script>
+    </element>
+  </body>
+</html>

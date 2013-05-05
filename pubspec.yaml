@@ -1,0 +1,7 @@
+name: work_break_assistant
+author: nate
+description: work break assistant
+dependencies:
+  js: any
+  browser: any
+  web_ui: any

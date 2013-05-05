@@ -1,0 +1,2661 @@
+---
+build.dart --machine --changed=pubspec.yaml --changed=web/pomodoro.css --changed=web/pomodoro.dart --changed=we...
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"import syntax is changing, use rel=\"import\" instead of rel=\"components\".","line":10,"charStart":185,"charEnd":234}}]
+Total time spent on web/pomodoro.html                        -- 267 ms
+Total time                                                   -- 292 ms
+build.dart finished [1040 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  25 ms
+build.dart finished [483 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 259 ms
+Total time                                                   -- 283 ms
+build.dart finished [788 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [449 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 249 ms
+Total time                                                   -- 271 ms
+build.dart finished [689 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  21 ms
+build.dart finished [412 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 243 ms
+Total time                                                   -- 265 ms
+build.dart finished [642 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [403 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 248 ms
+Total time                                                   -- 271 ms
+build.dart finished [717 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [408 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 255 ms
+Total time                                                   -- 279 ms
+build.dart finished [669 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [407 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"custom element with tag name x-pomodoro not found.","line":16,"charStart":306,"charEnd":367}}]
+Total time spent on web/pomodoro.html                        -- 246 ms
+Total time                                                   -- 268 ms
+build.dart finished [657 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [424 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"Unexpected character after attribute value.","line":16,"charStart":306,"charEnd":341}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"Invalid character in attribute name","line":16,"charStart":306,"charEnd":341}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"custom element with tag name x-pomodoro not found.","line":16,"charStart":306,"charEnd":342}}]
+Total time spent on web/pomodoro.html                        -- 232 ms
+Total time                                                   -- 254 ms
+build.dart finished [639 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [413 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"custom element with tag name x-pomodoro not found.","line":16,"charStart":306,"charEnd":341}}]
+Total time spent on web/pomodoro.html                        -- 234 ms
+Total time                                                   -- 256 ms
+build.dart finished [648 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [407 ms]
+
+---
+build.dart --machine --changed=web/app.dart --removed=web/pomodoro.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"error","params":{"file":"web/pomodoro.html","message":"unable to open file \"web/pomodoro.dart\"","line":19,"charStart":364,"charEnd":416}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"custom element with tag name x-pomodoro not found.","line":16,"charStart":306,"charEnd":341}}]
+Total time spent on web/pomodoro.html                        -- 179 ms
+Total time                                                   -- 203 ms
+build.dart finished [622 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"custom element with tag name x-pomodoro not found.","line":16,"charStart":306,"charEnd":341}}]
+Total time spent on web/pomodoro.html                        -- 239 ms
+Total time                                                   -- 274 ms
+build.dart finished [677 ms]
+
+---
+build.dart --machine --changed=web/out/app.dart --changed=web/out/app.dart.map --changed=web/out/pomodoro.css -...
+Total time                                                   --  19 ms
+build.dart finished [476 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.dart --removed=web/xclickcounter.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"error","params":{"file":"web/xclickcounter.html","message":"unable to open file \"web/xclickcounter.dart\"","line":12,"charStart":298,"charEnd":355}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"custom element with tag name x-pomodoro not found.","line":16,"charStart":306,"charEnd":341}}]
+Total time spent on web/pomodoro.html                        -- 162 ms
+Total time                                                   -- 184 ms
+build.dart finished [586 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"error","params":{"file":"web/xclickcounter.html","message":"unable to open file \"web/xclickcounter.dart\"","line":12,"charStart":298,"charEnd":355}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"custom element with tag name x-pomodoro not found.","line":16,"charStart":306,"charEnd":341}}]
+Total time spent on web/pomodoro.html                        -- 167 ms
+Total time                                                   -- 190 ms
+build.dart finished [581 ms]
+
+---
+build.dart --machine --changed=web/xclickcounter.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"custom element with tag name x-pomodoro not found.","line":16,"charStart":306,"charEnd":341}}]
+[{"method":"error","params":{"file":"web/xclickcounter.html","message":"please provide a class definition for CounterComponent:\n import 'package:web_ui/web_ui.dart';\n\nclass PomodoroComponent extends WebComponent {\n  int count = 0;\n\n  void increment() {\n    count++;\n  }\n}\n","line":5,"charStart":37,"charEnd":114}}]
+Total time spent on web/pomodoro.html                        -- 182 ms
+Total time                                                   -- 206 ms
+build.dart finished [615 ms]
+
+---
+build.dart --machine --changed=web/xclickcounter.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"error","params":{"file":"web/xclickcounter.html","message":"please provide a class definition for CounterComponent:\n import 'package:web_ui/web_ui.dart';\n\nclass PomodoroComponent extends WebComponent {\n  int count = 0;\n\n  void increment() {\n    count++;\n  }\n}\n","line":5,"charStart":37,"charEnd":109}}]
+Total time spent on web/pomodoro.html                        -- 194 ms
+Total time                                                   -- 217 ms
+build.dart finished [603 ms]
+
+---
+build.dart --machine --changed=web/xclickcounter.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 232 ms
+Total time                                                   -- 254 ms
+build.dart finished [638 ms]
+
+---
+build.dart --machine --changed=web/out/app.dart --changed=web/out/app.dart.map --changed=web/out/pomodoro.css -...
+Total time                                                   --  22 ms
+build.dart finished [415 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"custom element with tag name x-pomodoro not found.","line":16,"charStart":301,"charEnd":336}}]
+Total time spent on web/pomodoro.html                        -- 199 ms
+Total time                                                   -- 222 ms
+build.dart finished [616 ms]
+
+---
+build.dart --machine --changed=web/out/app.dart --changed=web/out/app.dart.map --changed=web/out/pomodoro.css -...
+Total time                                                   --  20 ms
+build.dart finished [408 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"custom element with tag name x-pomodoro not found.","line":16,"charStart":301,"charEnd":333}}]
+Total time spent on web/pomodoro.html                        -- 204 ms
+Total time                                                   -- 228 ms
+build.dart finished [632 ms]
+
+---
+build.dart --machine --changed=web/out/app.dart --changed=web/out/app.dart.map --changed=web/out/pomodoro.css -...
+Total time                                                   --  20 ms
+build.dart finished [414 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"custom element with tag name x-timer not found.","line":16,"charStart":296,"charEnd":325}}]
+Total time spent on web/pomodoro.html                        -- 206 ms
+Total time                                                   -- 240 ms
+build.dart finished [627 ms]
+
+---
+build.dart --machine --changed=web/out/app.dart --changed=web/out/app.dart.map --changed=web/out/pomodoro.css -...
+Total time                                                   --  19 ms
+build.dart finished [413 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"error","params":{"file":"web/pomodoro.html","message":"unable to open file \"web/timer.html\"","line":10,"charStart":183,"charEnd":220}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"custom element with tag name x-timer not found.","line":16,"charStart":293,"charEnd":322}}]
+Total time spent on web/pomodoro.html                        -- 169 ms
+Total time                                                   -- 191 ms
+build.dart finished [598 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"error","params":{"file":"web/pomodoro.html","message":"unable to open file \"web/timer.html\"","line":10,"charStart":183,"charEnd":220}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"custom element with tag name x-timer not found.","line":16,"charStart":293,"charEnd":322}}]
+Total time spent on web/pomodoro.html                        -- 153 ms
+Total time                                                   -- 176 ms
+build.dart finished [566 ms]
+
+---
+build.dart --machine --changed=web/timer.dart --removed=web/pomodoro.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"error","params":{"file":"web/pomodoro.html","message":"unable to open file \"web/timer.html\"","line":10,"charStart":183,"charEnd":220}}]
+[{"method":"error","params":{"file":"web/pomodoro.html","message":"unable to open file \"web/pomodoro.dart\"","line":19,"charStart":345,"charEnd":397}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"custom element with tag name x-timer not found.","line":16,"charStart":293,"charEnd":322}}]
+Total time spent on web/pomodoro.html                        -- 106 ms
+Total time                                                   -- 128 ms
+build.dart finished [534 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.dart --removed=web/app.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"error","params":{"file":"web/pomodoro.html","message":"unable to open file \"web/timer.html\"","line":10,"charStart":183,"charEnd":220}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"custom element with tag name x-timer not found.","line":16,"charStart":293,"charEnd":322}}]
+Total time spent on web/pomodoro.html                        -- 145 ms
+Total time                                                   -- 168 ms
+build.dart finished [567 ms]
+
+---
+build.dart --machine --changed=web/timer.html --removed=web/xclickcounter.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"warning","params":{"file":"web/pomodoro.html","message":"custom element with tag name x-timer not found.","line":16,"charStart":293,"charEnd":322}}]
+[{"method":"error","params":{"file":"web/timer.html","message":"please provide a class definition for PomodoroComponent:\n import 'dart:html';\nimport 'package:web_ui/web_ui.dart';\n\n// initial value for click-counter\nint startingCount = 5;\n\n/**\n * Learn about the Web UI package by visiting\n * http://www.dartlang.org/articles/dart-web-components/.\n */\nvoid main() {\n  // Enable this to use Shadow DOM in the browser.\n  //useShadowDom = true;\n}\n","line":5,"charStart":37,"charEnd":110}}]
+Total time spent on web/pomodoro.html                        -- 167 ms
+Total time                                                   -- 189 ms
+build.dart finished [605 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"error","params":{"file":"web/timer.html","message":"please provide a class definition for TimerComponent:\n import 'package:web_ui/web_ui.dart';\n\nclass PomodoroComponent extends WebComponent {\n  int count = 0;\n\n  void increment() {\n    count++;\n  }\n}\n","line":5,"charStart":37,"charEnd":104}}]
+Total time spent on web/pomodoro.html                        -- 185 ms
+Total time                                                   -- 208 ms
+build.dart finished [605 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 238 ms
+Total time                                                   -- 261 ms
+build.dart finished [688 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [445 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 252 ms
+Total time                                                   -- 275 ms
+build.dart finished [673 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [446 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 231 ms
+Total time                                                   -- 257 ms
+build.dart finished [639 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [414 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 231 ms
+Total time                                                   -- 255 ms
+build.dart finished [635 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [414 ms]
+
+---
+build.dart --machine --clean
+Total time                                                   --  21 ms
+build.dart finished [433 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 268 ms
+Total time                                                   -- 291 ms
+build.dart finished [752 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  30 ms
+build.dart finished [548 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 274 ms
+Total time                                                   -- 298 ms
+build.dart finished [735 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  22 ms
+build.dart finished [474 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 257 ms
+Total time                                                   -- 287 ms
+build.dart finished [702 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [438 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.css
+Total time                                                   --  26 ms
+build.dart finished [430 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.css
+Total time                                                   --  20 ms
+build.dart finished [420 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.css
+Total time                                                   --  23 ms
+build.dart finished [422 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 252 ms
+Total time                                                   -- 282 ms
+build.dart finished [694 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  22 ms
+build.dart finished [423 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 258 ms
+Total time                                                   -- 285 ms
+build.dart finished [686 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  26 ms
+build.dart finished [437 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 250 ms
+Total time                                                   -- 274 ms
+build.dart finished [682 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  25 ms
+build.dart finished [435 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 267 ms
+Total time                                                   -- 292 ms
+build.dart finished [737 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  25 ms
+build.dart finished [429 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"warning","params":{"file":"web/timer.html","message":"Unexpected end tag (input). Ignored.","line":8,"charStart":169,"charEnd":177}}]
+Total time spent on web/pomodoro.html                        -- 253 ms
+Total time                                                   -- 277 ms
+build.dart finished [674 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  21 ms
+build.dart finished [432 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"warning","params":{"file":"web/timer.html","message":"Unexpected end tag (input). Ignored.","line":8,"charStart":171,"charEnd":179}}]
+Total time spent on web/pomodoro.html                        -- 272 ms
+Total time                                                   -- 298 ms
+build.dart finished [751 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  21 ms
+build.dart finished [431 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"warning","params":{"file":"web/timer.html","message":"Unexpected end tag (input). Ignored.","line":8,"charStart":169,"charEnd":177}}]
+Total time spent on web/pomodoro.html                        -- 272 ms
+Total time                                                   -- 295 ms
+build.dart finished [710 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  22 ms
+build.dart finished [438 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 299 ms
+Total time                                                   -- 331 ms
+build.dart finished [829 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  29 ms
+build.dart finished [521 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 282 ms
+Total time                                                   -- 310 ms
+build.dart finished [749 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  23 ms
+build.dart finished [557 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 287 ms
+Total time                                                   -- 316 ms
+build.dart finished [875 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  21 ms
+build.dart finished [465 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 250 ms
+Total time                                                   -- 272 ms
+build.dart finished [679 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [428 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 245 ms
+Total time                                                   -- 269 ms
+build.dart finished [660 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  21 ms
+build.dart finished [433 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 252 ms
+Total time                                                   -- 278 ms
+build.dart finished [675 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [423 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 251 ms
+Total time                                                   -- 280 ms
+build.dart finished [671 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [422 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 253 ms
+Total time                                                   -- 277 ms
+build.dart finished [684 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  21 ms
+build.dart finished [413 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 250 ms
+Total time                                                   -- 273 ms
+build.dart finished [662 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [419 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 262 ms
+Total time                                                   -- 285 ms
+build.dart finished [682 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [423 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 260 ms
+Total time                                                   -- 284 ms
+build.dart finished [687 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [439 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 262 ms
+Total time                                                   -- 290 ms
+build.dart finished [698 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  24 ms
+build.dart finished [441 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 257 ms
+Total time                                                   -- 286 ms
+build.dart finished [713 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  21 ms
+build.dart finished [434 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 269 ms
+Total time                                                   -- 295 ms
+build.dart finished [708 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  23 ms
+build.dart finished [438 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 252 ms
+Total time                                                   -- 277 ms
+build.dart finished [688 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  22 ms
+build.dart finished [430 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 258 ms
+Total time                                                   -- 282 ms
+build.dart finished [678 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [443 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 239 ms
+Total time                                                   -- 274 ms
+build.dart finished [668 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [422 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 274 ms
+Total time                                                   -- 296 ms
+build.dart finished [682 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [416 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 268 ms
+Total time                                                   -- 291 ms
+build.dart finished [693 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  21 ms
+build.dart finished [432 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 273 ms
+Total time                                                   -- 301 ms
+build.dart finished [724 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  22 ms
+build.dart finished [438 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 268 ms
+Total time                                                   -- 291 ms
+build.dart finished [699 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [419 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"warning","params":{"file":"web/timer.html","message":"Unexpected end tag (span). Ignored.","line":10,"charStart":306,"charEnd":313}}]
+[{"method":"warning","params":{"file":"web/timer.html","message":"Unexpected end tag (template). Ignored.","line":12,"charStart":335,"charEnd":346}}]
+[{"method":"warning","params":{"file":"web/timer.html","message":"Unexpected end tag (element). Ignored.","line":14,"charStart":416,"charEnd":426}}]
+[{"method":"warning","params":{"file":"web/timer.html","message":"Unexpected end tag (element). Missing end tag (body).","line":15,"charStart":429,"charEnd":436}}]
+Total time spent on web/pomodoro.html                        -- 264 ms
+Total time                                                   -- 288 ms
+build.dart finished [698 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [420 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 273 ms
+Total time                                                   -- 296 ms
+build.dart finished [694 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  21 ms
+build.dart finished [424 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 267 ms
+Total time                                                   -- 292 ms
+build.dart finished [696 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [420 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 314 ms
+Total time                                                   -- 343 ms
+build.dart finished [877 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  22 ms
+build.dart finished [545 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 256 ms
+Total time                                                   -- 288 ms
+build.dart finished [4287 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 324 ms
+Total time                                                   -- 360 ms
+build.dart finished [914 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 366 ms
+Total time                                                   -- 390 ms
+build.dart finished [979 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  27 ms
+build.dart finished [581 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 242 ms
+Total time                                                   -- 264 ms
+build.dart finished [636 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [392 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 238 ms
+Total time                                                   -- 260 ms
+build.dart finished [646 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [393 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 248 ms
+Total time                                                   -- 270 ms
+build.dart finished [662 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [409 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 241 ms
+Total time                                                   -- 263 ms
+build.dart finished [641 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [405 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 251 ms
+Total time                                                   -- 276 ms
+build.dart finished [668 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [418 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 271 ms
+Total time                                                   -- 293 ms
+build.dart finished [673 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [423 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 246 ms
+Total time                                                   -- 269 ms
+build.dart finished [649 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [425 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 237 ms
+Total time                                                   -- 259 ms
+build.dart finished [644 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [418 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 249 ms
+Total time                                                   -- 273 ms
+build.dart finished [677 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [415 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 258 ms
+Total time                                                   -- 281 ms
+build.dart finished [743 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [418 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 241 ms
+Total time                                                   -- 264 ms
+build.dart finished [648 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [408 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 243 ms
+Total time                                                   -- 265 ms
+build.dart finished [656 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [417 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 246 ms
+Total time                                                   -- 269 ms
+build.dart finished [678 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [442 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 267 ms
+Total time                                                   -- 290 ms
+build.dart finished [677 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 250 ms
+Total time                                                   -- 273 ms
+build.dart finished [676 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [456 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 252 ms
+Total time                                                   -- 275 ms
+build.dart finished [662 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [427 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 245 ms
+Total time                                                   -- 268 ms
+build.dart finished [664 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [410 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 252 ms
+Total time                                                   -- 274 ms
+build.dart finished [673 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [422 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 248 ms
+Total time                                                   -- 270 ms
+build.dart finished [678 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [420 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 246 ms
+Total time                                                   -- 269 ms
+build.dart finished [653 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [436 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 277 ms
+build.dart finished [663 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [410 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 252 ms
+Total time                                                   -- 275 ms
+build.dart finished [674 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [424 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 262 ms
+Total time                                                   -- 285 ms
+build.dart finished [711 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [429 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 251 ms
+Total time                                                   -- 274 ms
+build.dart finished [667 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [417 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 279 ms
+Total time                                                   -- 302 ms
+build.dart finished [713 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [440 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 253 ms
+Total time                                                   -- 276 ms
+build.dart finished [665 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [415 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 249 ms
+Total time                                                   -- 272 ms
+build.dart finished [667 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [421 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 250 ms
+Total time                                                   -- 273 ms
+build.dart finished [669 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [428 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 258 ms
+Total time                                                   -- 280 ms
+build.dart finished [677 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [442 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 251 ms
+Total time                                                   -- 273 ms
+build.dart finished [670 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [426 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 250 ms
+Total time                                                   -- 272 ms
+build.dart finished [664 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [429 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 255 ms
+Total time                                                   -- 278 ms
+build.dart finished [665 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  18 ms
+build.dart finished [422 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 256 ms
+Total time                                                   -- 279 ms
+build.dart finished [666 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  21 ms
+build.dart finished [422 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 258 ms
+Total time                                                   -- 281 ms
+build.dart finished [680 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [430 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 249 ms
+Total time                                                   -- 271 ms
+build.dart finished [658 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [425 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 251 ms
+Total time                                                   -- 274 ms
+build.dart finished [673 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [424 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 256 ms
+Total time                                                   -- 279 ms
+build.dart finished [673 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [427 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 253 ms
+Total time                                                   -- 275 ms
+build.dart finished [665 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [415 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 262 ms
+Total time                                                   -- 285 ms
+build.dart finished [682 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [401 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 251 ms
+Total time                                                   -- 275 ms
+build.dart finished [676 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [420 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 253 ms
+Total time                                                   -- 276 ms
+build.dart finished [678 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [428 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 256 ms
+Total time                                                   -- 279 ms
+build.dart finished [672 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 277 ms
+build.dart finished [670 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [490 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 251 ms
+Total time                                                   -- 274 ms
+build.dart finished [669 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [430 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 259 ms
+Total time                                                   -- 281 ms
+build.dart finished [672 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [420 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 256 ms
+Total time                                                   -- 279 ms
+build.dart finished [681 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [425 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 253 ms
+Total time                                                   -- 275 ms
+build.dart finished [662 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [425 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 250 ms
+Total time                                                   -- 273 ms
+build.dart finished [660 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [429 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 252 ms
+Total time                                                   -- 276 ms
+build.dart finished [679 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [430 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 260 ms
+Total time                                                   -- 283 ms
+build.dart finished [667 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [412 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 277 ms
+build.dart finished [679 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [426 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 249 ms
+Total time                                                   -- 271 ms
+build.dart finished [667 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [428 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 260 ms
+Total time                                                   -- 283 ms
+build.dart finished [690 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [430 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 278 ms
+build.dart finished [687 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [423 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 277 ms
+build.dart finished [678 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [429 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 252 ms
+Total time                                                   -- 275 ms
+build.dart finished [678 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [427 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 278 ms
+build.dart finished [672 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [444 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"warning","params":{"file":"web/timer.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":11,"charStart":329,"charEnd":337}}]
+Total time spent on web/pomodoro.html                        -- 251 ms
+Total time                                                   -- 273 ms
+build.dart finished [661 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [424 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"warning","params":{"file":"web/timer.html","message":"template attribute is required when using if, instantiate, repeat, or iterate attributes.","line":11,"charStart":337,"charEnd":345}}]
+Total time spent on web/pomodoro.html                        -- 252 ms
+Total time                                                   -- 275 ms
+build.dart finished [675 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [432 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 278 ms
+build.dart finished [666 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [424 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 277 ms
+build.dart finished [677 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [433 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 261 ms
+Total time                                                   -- 287 ms
+build.dart finished [679 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  27 ms
+build.dart finished [480 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 257 ms
+Total time                                                   -- 287 ms
+build.dart finished [681 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  27 ms
+build.dart finished [470 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 257 ms
+Total time                                                   -- 281 ms
+build.dart finished [691 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [408 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 277 ms
+build.dart finished [682 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [451 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 255 ms
+Total time                                                   -- 277 ms
+build.dart finished [673 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  18 ms
+build.dart finished [403 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 277 ms
+build.dart finished [675 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [417 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 255 ms
+Total time                                                   -- 278 ms
+build.dart finished [678 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [420 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 258 ms
+Total time                                                   -- 280 ms
+build.dart finished [673 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [479 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 273 ms
+Total time                                                   -- 296 ms
+build.dart finished [705 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 258 ms
+Total time                                                   -- 281 ms
+build.dart finished [702 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [495 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 258 ms
+Total time                                                   -- 280 ms
+build.dart finished [681 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [427 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 259 ms
+Total time                                                   -- 282 ms
+build.dart finished [682 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [429 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 255 ms
+Total time                                                   -- 278 ms
+build.dart finished [675 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [428 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 255 ms
+Total time                                                   -- 277 ms
+build.dart finished [677 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [430 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 256 ms
+Total time                                                   -- 279 ms
+build.dart finished [668 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [433 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 255 ms
+Total time                                                   -- 286 ms
+build.dart finished [687 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [408 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 276 ms
+build.dart finished [679 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [432 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 277 ms
+build.dart finished [666 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [411 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 251 ms
+Total time                                                   -- 274 ms
+build.dart finished [667 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [429 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 271 ms
+Total time                                                   -- 294 ms
+build.dart finished [695 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [463 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 277 ms
+build.dart finished [684 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [420 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 253 ms
+Total time                                                   -- 276 ms
+build.dart finished [679 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [422 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 253 ms
+Total time                                                   -- 276 ms
+build.dart finished [682 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [423 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 255 ms
+Total time                                                   -- 278 ms
+build.dart finished [682 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [436 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 268 ms
+Total time                                                   -- 292 ms
+build.dart finished [694 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [425 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 277 ms
+build.dart finished [664 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [457 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 277 ms
+build.dart finished [679 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [404 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 274 ms
+Total time                                                   -- 298 ms
+build.dart finished [686 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [424 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 256 ms
+Total time                                                   -- 278 ms
+build.dart finished [726 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [422 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 257 ms
+Total time                                                   -- 279 ms
+build.dart finished [680 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [438 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 257 ms
+Total time                                                   -- 279 ms
+build.dart finished [668 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [426 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 277 ms
+build.dart finished [661 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [424 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 261 ms
+Total time                                                   -- 286 ms
+build.dart finished [679 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [425 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 259 ms
+Total time                                                   -- 281 ms
+build.dart finished [680 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [408 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 262 ms
+Total time                                                   -- 285 ms
+build.dart finished [686 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [423 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 252 ms
+Total time                                                   -- 274 ms
+build.dart finished [674 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [415 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 260 ms
+Total time                                                   -- 283 ms
+build.dart finished [671 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [425 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 267 ms
+Total time                                                   -- 291 ms
+build.dart finished [719 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [414 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 259 ms
+Total time                                                   -- 281 ms
+build.dart finished [697 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [429 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 277 ms
+build.dart finished [664 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [425 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 253 ms
+Total time                                                   -- 276 ms
+build.dart finished [680 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  18 ms
+build.dart finished [430 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 257 ms
+Total time                                                   -- 279 ms
+build.dart finished [666 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [421 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 256 ms
+Total time                                                   -- 279 ms
+build.dart finished [669 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [427 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 260 ms
+Total time                                                   -- 284 ms
+build.dart finished [684 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [414 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 257 ms
+Total time                                                   -- 280 ms
+build.dart finished [669 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [427 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 277 ms
+build.dart finished [667 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [422 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 256 ms
+Total time                                                   -- 278 ms
+build.dart finished [666 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [420 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 255 ms
+Total time                                                   -- 278 ms
+build.dart finished [676 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [435 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 257 ms
+Total time                                                   -- 280 ms
+build.dart finished [666 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [401 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 257 ms
+Total time                                                   -- 280 ms
+build.dart finished [669 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [421 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 261 ms
+Total time                                                   -- 282 ms
+build.dart finished [667 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [405 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 254 ms
+Total time                                                   -- 277 ms
+build.dart finished [679 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [418 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 259 ms
+Total time                                                   -- 281 ms
+build.dart finished [666 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [427 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 258 ms
+Total time                                                   -- 280 ms
+build.dart finished [683 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [427 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 258 ms
+Total time                                                   -- 280 ms
+build.dart finished [667 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [425 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 258 ms
+Total time                                                   -- 280 ms
+build.dart finished [682 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [420 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 261 ms
+Total time                                                   -- 284 ms
+build.dart finished [685 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [405 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 269 ms
+Total time                                                   -- 292 ms
+build.dart finished [684 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [406 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 267 ms
+Total time                                                   -- 290 ms
+build.dart finished [691 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [423 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 273 ms
+Total time                                                   -- 297 ms
+build.dart finished [755 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [434 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 264 ms
+Total time                                                   -- 287 ms
+build.dart finished [690 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [435 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 267 ms
+Total time                                                   -- 290 ms
+build.dart finished [694 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [431 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 274 ms
+Total time                                                   -- 296 ms
+build.dart finished [683 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [426 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 264 ms
+Total time                                                   -- 287 ms
+build.dart finished [701 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [432 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 269 ms
+Total time                                                   -- 291 ms
+build.dart finished [704 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [449 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 272 ms
+Total time                                                   -- 294 ms
+build.dart finished [688 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [420 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 268 ms
+Total time                                                   -- 291 ms
+build.dart finished [690 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [409 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 265 ms
+Total time                                                   -- 288 ms
+build.dart finished [687 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [421 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 264 ms
+Total time                                                   -- 287 ms
+build.dart finished [674 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [422 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 266 ms
+Total time                                                   -- 288 ms
+build.dart finished [681 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [430 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+Total time spent on web/pomodoro.html                        -- 263 ms
+Total time                                                   -- 286 ms
+build.dart finished [687 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [417 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.html_bootstrap.dart.js --changed=web/out/pomodoro.html_bootstra...
+Total time                                                   --  19 ms
+build.dart finished [427 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+error unable to create symlink
+ target: /Users/naoto/works/pomodoro/packages
+ link:web/out/packages
+subprocess stdout:
+
+subprocess stderr:
+ln: web/out/packages: File exists
+
+Total time spent on web/pomodoro.html                        -- 383 ms
+Total time                                                   -- 411 ms
+build.dart finished [921 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  28 ms
+build.dart finished [552 ms]
+
+---
+build.dart --machine --removed=web/out/pomodoro.css --removed=web/out/pomodoro.dart --removed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [428 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  21 ms
+build.dart finished [424 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+error unable to create symlink
+ target: /Users/naoto/works/work_break_manager/packages
+ link:web/out/packages
+subprocess stdout:
+
+subprocess stderr:
+ln: web/out/packages: File exists
+
+Total time spent on web/pomodoro.html                        -- 325 ms
+Total time                                                   -- 357 ms
+build.dart finished [911 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  29 ms
+build.dart finished [587 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+error unable to create symlink
+ target: /Users/naoto/works/work_break_manager/packages
+ link:web/out/packages
+subprocess stdout:
+
+subprocess stderr:
+ln: web/out/packages: File exists
+
+Total time spent on web/pomodoro.html                        -- 281 ms
+Total time                                                   -- 304 ms
+build.dart finished [697 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  20 ms
+build.dart finished [414 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+error unable to create symlink
+ target: /Users/naoto/works/work_break_manager/packages
+ link:web/out/packages
+subprocess stdout:
+
+subprocess stderr:
+ln: web/out/packages: File exists
+
+Total time spent on web/pomodoro.html                        -- 280 ms
+Total time                                                   -- 304 ms
+build.dart finished [697 ms]
+
+---
+build.dart --machine --changed=web/out/pomodoro.css --changed=web/out/pomodoro.dart --changed=web/out/pomodoro....
+Total time                                                   --  19 ms
+build.dart finished [409 ms]
+
+---
+build.dart --machine --changed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+[{"method":"error","params":{"file":"web/pomodoro.html","message":"unable to open file \"web/app.dart\"","line":18,"charStart":465,"charEnd":512}}]
+Total time spent on web/pomodoro.html                        -- 190 ms
+Total time                                                   -- 213 ms
+build.dart finished [596 ms]
+
+---
+build.dart --machine --changed=web/app.dart --removed=web/pomodoro.dart
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+error unable to create symlink
+ target: /Users/naoto/works/work_break_manager/packages
+ link:web/out/packages
+subprocess stdout:
+
+subprocess stderr:
+ln: web/out/packages: File exists
+
+Total time spent on web/pomodoro.html                        -- 282 ms
+Total time                                                   -- 305 ms
+build.dart finished [723 ms]
+
+---
+build.dart --machine --changed=web/out/app.dart --changed=web/out/app.dart.map --changed=web/out/pomodoro.css -...
+Total time                                                   --  23 ms
+build.dart finished [563 ms]
+
+---
+build.dart --machine --changed=web/app.css --removed=web/pomodoro.css
+Total time                                                   --  18 ms
+build.dart finished [408 ms]
+
+---
+build.dart --machine --changed=web/app.html --removed=web/pomodoro.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+error unable to open file "web/pomodoro.html"
+Total time spent on web/pomodoro.html                        --  10 ms
+Total time                                                   --  33 ms
+build.dart finished [426 ms]
+
+---
+build.dart --machine --changed=web/app.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+error unable to open file "web/pomodoro.html"
+Total time spent on web/pomodoro.html                        --  10 ms
+Total time                                                   --  32 ms
+build.dart finished [439 ms]
+
+---
+build.dart --machine --changed=web/app.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+error unable to open file "web/pomodoro.html"
+Total time spent on web/pomodoro.html                        --  10 ms
+Total time                                                   --  33 ms
+build.dart finished [422 ms]
+
+---
+build.dart --machine --changed=web/app.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+error unable to open file "web/pomodoro.html"
+Total time spent on web/pomodoro.html                        --  10 ms
+Total time                                                   --  33 ms
+build.dart finished [418 ms]
+
+---
+build.dart --machine --changed=web/app.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+error unable to open file "web/pomodoro.html"
+Total time spent on web/pomodoro.html                        --  10 ms
+Total time                                                   --  33 ms
+build.dart finished [421 ms]
+
+---
+build.dart --machine --changed=web/app.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+error unable to open file "web/pomodoro.html"
+Total time spent on web/pomodoro.html                        --  10 ms
+Total time                                                   --  32 ms
+build.dart finished [419 ms]
+
+---
+build.dart --machine --changed=web/app.css
+Total time                                                   --  19 ms
+build.dart finished [411 ms]
+
+---
+build.dart --machine --changed=web/app.html
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+error unable to open file "web/pomodoro.html"
+Total time spent on web/pomodoro.html                        --  10 ms
+Total time                                                   --  32 ms
+build.dart finished [432 ms]
+
+---
+build.dart --machine --changed=web/app.css
+Total time                                                   --  19 ms
+build.dart finished [411 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+error unable to open file "web/pomodoro.html"
+Total time spent on web/pomodoro.html                        --  20 ms
+Total time                                                   --  49 ms
+build.dart finished [502 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/pomodoro.html","to":"web/out/pomodoro.html"}}]
+error unable to open file "web/pomodoro.html"
+Total time spent on web/pomodoro.html                        --  16 ms
+Total time                                                   --  45 ms
+build.dart finished [515 ms]
+
+---
+build.dart --machine --removed=web/out/app.dart --removed=web/out/app.dart.map --removed=web/out/pomodoro.css -...
+Total time                                                   --  19 ms
+build.dart finished [399 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+Total time                                                   --  19 ms
+build.dart finished [404 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+Total time                                                   --  20 ms
+build.dart finished [403 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+Total time                                                   --  19 ms
+build.dart finished [398 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+Total time                                                   --  18 ms
+build.dart finished [405 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+Total time                                                   --  18 ms
+build.dart finished [416 ms]
+
+---
+build.dart --machine --changed=web/out/app.css --changed=web/out/app.dart --changed=web/out/app.dart.map --chan...
+Total time                                                   --  19 ms
+build.dart finished [395 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/app.html","to":"web/out/app.html"}}]
+Total time spent on web/app.html                             -- 260 ms
+Total time                                                   -- 282 ms
+build.dart finished [668 ms]
+
+---
+build.dart --machine --changed=web/out/app.css --changed=web/out/app.dart --changed=web/out/app.dart.map --chan...
+Total time                                                   --  20 ms
+build.dart finished [400 ms]
+
+---
+build.dart --machine --changed=web/timer.html
+[{"method":"mapping","params":{"from":"web/app.html","to":"web/out/app.html"}}]
+Total time spent on web/app.html                             -- 257 ms
+Total time                                                   -- 280 ms
+build.dart finished [655 ms]
+
+---
+build.dart --machine --changed=web/out/app.css --changed=web/out/app.dart --changed=web/out/app.dart.map --chan...
+Total time                                                   --  19 ms
+build.dart finished [399 ms]
+
+---
+build.dart --machine --changed=web/timer.dart
+[{"method":"mapping","params":{"from":"web/app.html","to":"web/out/app.html"}}]
+Total time spent on web/app.html                             -- 255 ms
+Total time                                                   -- 277 ms
+build.dart finished [650 ms]
+
+---
+build.dart --machine --changed=web/out/app.css --changed=web/out/app.dart --changed=web/out/app.dart.map --chan...
+Total time                                                   --  19 ms
+build.dart finished [391 ms]
+
+---
+build.dart --machine --changed=web/app.html
+[{"method":"mapping","params":{"from":"web/app.html","to":"web/out/app.html"}}]
+Total time spent on web/app.html                             -- 260 ms
+Total time                                                   -- 282 ms
+build.dart finished [663 ms]
+
+---
+build.dart --machine --changed=web/out/app.css --changed=web/out/app.dart --changed=web/out/app.dart.map --chan...
+Total time                                                   --  20 ms
+build.dart finished [395 ms]
+
