@@ -65,9 +65,4 @@ class TimerComponent extends WebComponent {
       }
     });
   }
-
-  // For learning Dartlang's time.
-  // people who can build this app, freely to build it.
-  // otherwise, pelase buy this chrome app.
-
 }
